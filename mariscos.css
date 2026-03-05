@@ -98,7 +98,7 @@ nav {
 /* Hero Section with Diagonal Grid */
 .hero{
     height: 100vh;
-    background: url("images/background1.png") center/cover no-repeat;
+    background: url("images/background.png") center/cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -720,3 +720,4 @@ footer {
 		grid-template-columns: 1fr;
 	}
 }
+
